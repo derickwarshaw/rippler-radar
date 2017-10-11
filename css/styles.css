@@ -4,6 +4,10 @@ body {
   margin-bottom: 30px;
 }
 
+h1 {
+  font-size: 55px;
+}
+
 .tombstone {
   display: inline-block;
   text-align: center;
